@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonitorLib", "MonitorLib\MonitorLib.csproj", "{7679DA63-D1B2-4E59-9C5E-1B77305521FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestConsole", "TestConsole\TestConsole.csproj", "{49DCF55D-9025-43B5-B2AE-4A8C797753C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7679DA63-D1B2-4E59-9C5E-1B77305521FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7679DA63-D1B2-4E59-9C5E-1B77305521FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7679DA63-D1B2-4E59-9C5E-1B77305521FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7679DA63-D1B2-4E59-9C5E-1B77305521FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49DCF55D-9025-43B5-B2AE-4A8C797753C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49DCF55D-9025-43B5-B2AE-4A8C797753C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49DCF55D-9025-43B5-B2AE-4A8C797753C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49DCF55D-9025-43B5-B2AE-4A8C797753C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
